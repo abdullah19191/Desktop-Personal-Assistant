@@ -1,0 +1,14 @@
+C:\Users\abdul\source\repos\JarvisFnl\JarvisFnl\bin\Debug\JarvisFnl.exe.config
+C:\Users\abdul\source\repos\JarvisFnl\JarvisFnl\bin\Debug\JarvisFnl.exe
+C:\Users\abdul\source\repos\JarvisFnl\JarvisFnl\bin\Debug\JarvisFnl.pdb
+C:\Users\abdul\source\repos\JarvisFnl\JarvisFnl\obj\Debug\JarvisFnl.Form1.resources
+C:\Users\abdul\source\repos\JarvisFnl\JarvisFnl\obj\Debug\JARVISCS.MainForm.resources
+C:\Users\abdul\source\repos\JarvisFnl\JarvisFnl\obj\Debug\JarvisFnl.Properties.Resources.resources
+C:\Users\abdul\source\repos\JarvisFnl\JarvisFnl\obj\Debug\JarvisFnl.csproj.GenerateResource.cache
+C:\Users\abdul\source\repos\JarvisFnl\JarvisFnl\obj\Debug\JarvisFnl.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\JarvisFnl\JarvisFnl\obj\Debug\JarvisFnl.exe
+C:\Users\abdul\source\repos\JarvisFnl\JarvisFnl\obj\Debug\JarvisFnl.pdb
+C:\Users\abdul\source\repos\JarvisFnl\JarvisFnl\bin\Debug\Database.mdf
+C:\Users\abdul\source\repos\JarvisFnl\JarvisFnl\bin\Debug\Database_log.ldf
+C:\Users\abdul\source\repos\JarvisFnl\JarvisFnl\obj\Debug\JarvisFnl.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\JarvisFnl\JarvisFnl\obj\Debug\JarvisFnl.csproj.SuggestedBindingRedirects.cache
