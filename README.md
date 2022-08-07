@@ -32,6 +32,22 @@ No log file of Database is included you would have to make your own
 1. Loading Screen:
 
 
+![image](https://user-images.githubusercontent.com/71758955/183287283-67d8194f-c8c1-4109-acb3-9c650b2798fb.png)
+
+2. Home Screen:
+
+
+
+![image](https://user-images.githubusercontent.com/71758955/183287328-9237b700-8f19-4804-8508-bdcfb3c82b0b.png)
+
+3. Menu Screen:
+
+
+
+![image](https://user-images.githubusercontent.com/71758955/183287348-cf1cd430-13b3-4da4-a745-52ef58342f4a.png)
+
+
+
 ## The Main Features Of Desktop Interface : 
 1.	Text Reader:  -
 The text reader function allows “Jarvis Interface” to read the selected text which has been selected or predesignated by the user. This feature enables the user to listen to the selected text which would be narrated to the user by “Jarvis Interface”.
